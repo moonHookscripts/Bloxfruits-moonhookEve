@@ -3071,7 +3071,7 @@ _G.Color = Color3.fromRGB(154, 240, 17)
 _G.imageLogo = "rbxassetid://12940626152"
 _G.Logo = "rbxassetid://12940626152"
 _G.NameHub = "Made By Dragon Toro" -- ชื่อ Hub
-_G.Title = "Matsune Hub Script blox fruits" -- คำอธิบาย
+_G.Title = "moon Hub Script blox fruits" -- cm
 -----------------------------------------------------------------
 
 local isUIEnabled = true 
@@ -11640,4 +11640,5 @@ end)
             end
          end)
      end)
+
      
